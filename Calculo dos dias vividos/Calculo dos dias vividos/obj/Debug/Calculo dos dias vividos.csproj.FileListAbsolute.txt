@@ -1,0 +1,10 @@
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\bin\Debug\Calculo dos dias vividos.exe.config
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\bin\Debug\Calculo dos dias vividos.exe
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\bin\Debug\Calculo dos dias vividos.pdb
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\obj\Debug\Calculo dos dias vividos.csprojAssemblyReference.cache
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\obj\Debug\Calculo_dos_dias_vividos.Frm_TP01.resources
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\obj\Debug\Calculo_dos_dias_vividos.Properties.Resources.resources
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\obj\Debug\Calculo dos dias vividos.csproj.GenerateResource.cache
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\obj\Debug\Calculo dos dias vividos.csproj.CoreCompileInputs.cache
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\obj\Debug\Calculo dos dias vividos.exe
+D:\Projetos do C#\Calculo dos dias vividos\Calculo dos dias vividos\obj\Debug\Calculo dos dias vividos.pdb
