@@ -1,0 +1,10 @@
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\bin\Debug\Calculadora Arco Tangente.exe.config
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\bin\Debug\Calculadora Arco Tangente.exe
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\bin\Debug\Calculadora Arco Tangente.pdb
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\obj\Debug\Calculadora Arco Tangente.csprojAssemblyReference.cache
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\obj\Debug\Calculadora_Arco_Tangente.Form1.resources
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\obj\Debug\Calculadora_Arco_Tangente.Properties.Resources.resources
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\obj\Debug\Calculadora Arco Tangente.csproj.GenerateResource.cache
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\obj\Debug\Calculadora Arco Tangente.csproj.CoreCompileInputs.cache
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\obj\Debug\Calculadora Arco Tangente.exe
+D:\Projetos do C#\Calculadora Arco Tangente\Calculadora Arco Tangente\obj\Debug\Calculadora Arco Tangente.pdb
